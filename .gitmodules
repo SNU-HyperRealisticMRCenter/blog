@@ -1,0 +1,10 @@
+[submodule "HRMRblog/academic"]
+	path = HRMRblog/academic
+	url = https://github.com/gcushen/hugo-academic.git
+[submodule "HRMRblog/themes/academic"]
+	path = HRMRblog/themes/academic
+	url = https://github.com/gcushen/hugo-academic.git
+[submodule "HRMRblog/public"]
+	path = HRMRblog/public
+	url = https://github.com/SNU-HyperRealisticMRCenter/SNU-HyperRealisticMRCenter.github.io.git
+	branch = main

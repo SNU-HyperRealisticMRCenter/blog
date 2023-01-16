@@ -1,0 +1,5 @@
+baseURL = 'https://snu-hyperrealisticmrcenter.github.io/'
+languageCode = 'en-us'
+title = 'Hyper Realistic Mixed Reality Center'
+
+theme = 'academic'
